@@ -2,7 +2,7 @@
     Date: 19 Jun 2012
     Status: public
 
-Today is 19 Jun 2012 and this is a _big_ day, because I'm leaving FlatSoft and will
+Today is 19 Jun 2012 and this is a big day, because I'm leaving FlatSoft and will
 continue my career as independent [web-engineer](/about). I'm also starting this
 personal website for tech notes and presentation of my projects.
 
