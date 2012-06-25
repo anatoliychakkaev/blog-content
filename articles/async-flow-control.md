@@ -1,6 +1,6 @@
     Title: Async flow control
     Date: 24 Jun 2012
-    Status: draft
+    Status: public
     Tags: nodejs, javascript, async
 
 Some sync-programmers a.k.a. node haters loves to repeat as mantra: "async
