@@ -1,6 +1,8 @@
-    Title: Hello world! (Good-bye outsourcing)
+    Title: Hello world!
+    Subtitle: Good-bye outsourcing
     Date: 19 Jun 2012
     Status: public
+    Tags: life, work
 
 Today is 19 Jun 2012 and this is a big day, because I'm leaving FlatSoft and will
 continue my career as independent [web-engineer](/about). I'm also starting this
