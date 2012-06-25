@@ -18,7 +18,7 @@ of nature and want to see every beautyful place in our planet.
 You can follow me on [Twitter](https://twitter.com/1602), see my photos on
 [Flickr](#) and [500px](#), check my projects on [GitHub](https://github.com/1602).
 Contact me by email (mail @ this domain) or phone (+1(864)256-1602). I'm
-**available for hire** on daily basis (USD500 / day) for [nodejs](http://nodejs.org)
+**available for hire** on daily basis for [nodejs](http://nodejs.org)
 projects and security consulting.
 
 ## My favorites
@@ -33,6 +33,6 @@ Briefly:
 - relational db: mysql
 - key-value db: redis
 - message queue: zeromq
-- project management: ???
+- project management: ??? (still looking for decent solution)
 - laptop: MBP
 
