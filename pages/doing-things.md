@@ -1,5 +1,5 @@
 
-    Title: Simple things
+    Title: Things Done
 
 # RailwayJS <br/><small>MVC framework</small>
 
