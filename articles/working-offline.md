@@ -1,6 +1,6 @@
     Title: Working offline
     Date: 27 Jun 2012
-    Status: draft
+    Status: public
     Tags: life, gtd, productivity
 
 Recently I've quit my job and leave the city. I went to countryside. This is a
