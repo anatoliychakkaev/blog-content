@@ -3,8 +3,8 @@
     Status: public
     Tags: life, gtd, productivity
 
-Recently I've quit my job and leave the city. I went to countryside. This is a
-place with no phone, no internet, no other enternainments like a shops or bars.
+Recently I've quit my job and left the city. I went to countryside. This is a
+place with no phone, no internet, no other enternainments like shops or bars.
 Truly offline.
 
 <center>
@@ -14,10 +14,10 @@ Truly offline.
 </video>
 </center>
 
-Now it's raining, I sitting near the house and listening for raindrops hitting
+Now it's raining, I'm sitting near the house listening for raindrops hitting
 rooftops. I've never been so concentrated and productive for the last couple
 years. It's like opening eyes being widely closed for a long time. Finally I can
-start expetimenting and build cool shit.
+start experiment and build cool shit.
 
 And as I can see then main reason of this: working **offline**.
 
