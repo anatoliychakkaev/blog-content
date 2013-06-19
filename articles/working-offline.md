@@ -23,20 +23,20 @@ And as I can see then main reason of this: working **offline**.
 
 ### No distractions
 
-Skype, email notifications, HN, twitter. All gone. Nobody interrupt me when I
-thinking.  It's allows to dive very deep inside my thoughts. I can even forget
+Skype, email notifications, HN, twitter. All gone. Nobody interrupts me when I'm
+thinking.  It has allowed me to dive very deep inside my thoughts. I can even forget
 to eat dinner.
 
 ### No helpers
 
 No google, translators, stackoverflow, no one will help me to hit the problem.
-Only `man`, Dictionary app, source codes and my brain. Truly challengy
-sometimes. But I feel my brain stronger, because it's good exercises - think
+Only `man`, Dictionary app, source codes and my brain. Truly challenging
+sometimes. But I feel my brain stronger, because it's a good exercise - think
 instead of search, investigate solution without googling.
 
 ### Fresh air, natural milk and springs water
 
-My body feels really happy and relaxing. Instead of fitness I do some job with
+My body feels really happy and relaxed. Instead of fitness I do some job with
 hammer and other stuff when working with wood - much better and useful than
 wasting time in fitness center.
 
